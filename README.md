@@ -10,7 +10,7 @@ GitGuru is an AI-powered tool that lets you load any public GitHub repository an
 
 - 🔗 **Any public GitHub repo** — just paste the URL and go
 - ⚡ **Instant re-access** — repos are cached after first index; reloading is immediate
-- 💬 **Conversational memory** — follow-up questions retain full chat history
+- 💬 **Session-based chat history** — follow-up questions retain context within the current session
 - 📎 **Source citations** — every answer links back to the exact files on GitHub
 - 🧩 **Smart chunking** — code is split with context-aware overlap for precise retrieval
 - 🎯 **MMR retrieval** — Maximal Marginal Relevance ensures diverse, non-repetitive context
@@ -211,15 +211,9 @@ Have questions, feedback, or want to collaborate?
 
 | | |
 |---|---|
-| 📧 **Email** | `your@email.com` |
-| 🐙 **GitHub** | `github.com/yourusername` |
-| 💼 **LinkedIn** | `linkedin.com/in/yourprofile` |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+| 📧 **Email** | `adeelmemon096@yahoo.com` |
+| 🐙 **GitHub** | `github.com/adeel-iqbal` |
+| 💼 **LinkedIn** | `linkedin.com/in/adeeliqbalmemon` |
 
 ---
 
