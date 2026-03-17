@@ -6,6 +6,12 @@ GitGuru is an AI-powered tool that lets you load any public GitHub repository an
 
 ---
 
+## 📸 Preview
+
+![GitGuru UI](screenshot/UI.png)
+
+---
+
 ## ✨ Features
 
 - 🔗 **Any public GitHub repo** — just paste the URL and go
