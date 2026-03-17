@@ -84,7 +84,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Configure environment
-cp .env.example .env
+cp .env.example .env            # Windows: copy .env.example .env
 # Open .env and add your OPENAI_API_KEY
 
 # Start the server
@@ -103,7 +103,7 @@ cd frontend
 npm install
 
 # Configure environment
-cp .env.local.example .env.local
+cp .env.local.example .env.local   # Windows: copy .env.local.example .env.local
 # NEXT_PUBLIC_API_URL is already set to http://localhost:8000
 
 # Start the dev server
@@ -117,9 +117,16 @@ npm run dev
 
 From the project root:
 
+**macOS / Linux**
 ```bash
 ./start.sh   # Start both backend and frontend
 ./stop.sh    # Stop both services
+```
+
+**Windows**
+```bat
+start.bat    # Start both backend and frontend
+stop.bat     # Stop both services
 ```
 
 ---
